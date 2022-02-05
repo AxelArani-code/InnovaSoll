@@ -1,0 +1,428 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"css"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"bac",
+				"background-origin\tproperty"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			],
+			[
+				"bor",
+				"border-bottom-style\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"men",
+				"menu-toggle"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"FONT",
+				"font-weight\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"cosa",
+				"cosa"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"sp",
+				"span\tTag"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"In",
+				"Index"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"boo",
+				"bottom\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"trns",
+				"transition\tproperty"
+			],
+			[
+				"fom",
+				"font-family\tproperty"
+			],
+			[
+				"alin",
+				"align-items\tproperty"
+			],
+			[
+				"gri",
+				"grid-template-areas\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"tra",
+				"translateY()\ttransform"
+			],
+			[
+				"tx",
+				"text-align\tproperty"
+			],
+			[
+				"s",
+				"space-between\tjustify-content"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"bo",
+				"border-box\tbox-sizing"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"bar",
+				"background\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"slide",
+				"slides"
+			],
+			[
+				"whi",
+				"width\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"p",
+				"png"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"Ima",
+				"Imagens"
+			],
+			[
+				"i",
+				"Imagenes"
+			],
+			[
+				"clo",
+				"color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Dvid/estilo.css",
+		"/E/Dvid/index.html",
+		"/E/Dvid/New/Index.html",
+		"/E/Dvid/New/estilo.css",
+		"/E/Inovasol/estilos.css",
+		"/E/Copy/estilo.css",
+		"/E/Code en Html/Dia 1/estilo.Css",
+		"/E/Escuela/estilo.css",
+		"/E/Inovasol/INOVASOL/TermotanquesGeneral/TermoInfoGeneral.css",
+		"/E/Code en Html/Dia 1/Index.html",
+		"/E/Code en Html/School/Index.html",
+		"/C/Users/axela/OneDrive/Escritorio/NEW/Inovasol/index.html",
+		"/E/Inovasol/INOVASOL/TermotanquesGeneral/TermoInfoGeneral.html",
+		"/E/Inovasol/index.html",
+		"/E/Escuela/Index.html",
+		"/E/Copy/Index.html",
+		"/C/Users/axela/OneDrive/Escritorio/NEW/Inovasol/estilos.css",
+		"/C/Users/axela/OneDrive/Escritorio/Dia 1/Index.html",
+		"/C/Users/axela/OneDrive/Escritorio/Nueva carpeta/Index.html",
+		"/C/Users/axela/OneDrive/Escritorio/NUEVO/estilo.Css",
+		"/C/Users/axela/OneDrive/Escritorio/Dia 1/estilo.Css",
+		"/C/Users/axela/Dropbox/Modificador/estilo.css",
+		"/C/Users/axela/Dropbox/Modificador/Index.html",
+		"/C/Users/axela/OneDrive/Escritorio/NUEVO/Index.html",
+		"/C/Users/axela/Dropbox/IES-9012/David Veisaga/web/index.html",
+		"/E/New/lala.css",
+		"/C/Users/axela/OneDrive/Escritorio/Inovasol/index.html",
+		"/E/New/Index.html",
+		"/C/Users/axela/OneDrive/Escritorio/Inovasol/estilos.css",
+		"/E/PRUEBA/Index.html",
+		"/E/kaka.css",
+		"/E/Index.html",
+		"/C/Users/axela/OneDrive/Escritorio/Skewed Border/Estilo.css",
+		"/C/Users/axela/OneDrive/Escritorio/Skewed Border/Index.html",
+		"/C/Users/axela/OneDrive/Escritorio/Mole/estilo.css",
+		"/C/Users/axela/OneDrive/Escritorio/DIseño/None.css",
+		"/C/Users/axela/OneDrive/Escritorio/Inovasol/estilo.css",
+		"/C/Users/axela/OneDrive/Escritorio/Inovasol/fonts.css",
+		"/C/Users/axela/OneDrive/Escritorio/Novasol/Web/Estilo.css",
+		"/C/Users/axela/OneDrive/Escritorio/Novasol/Web/Proyect.html",
+		"/C/Users/axela/OneDrive/Escritorio/Mole/JS/jquery.slides.js",
+		"/C/Users/axela/OneDrive/Escritorio/Mole/exper",
+		"/C/Users/axela/OneDrive/Escritorio/Mole/despasar",
+		"/C/Users/axela/OneDrive/Escritorio/Mole/es",
+		"/C/Users/axela/OneDrive/Escritorio/Mole/estilo",
+		"/C/Users/axela/OneDrive/Escritorio/Icono HTML/demo-files/demo.css",
+		"/C/Users/axela/OneDrive/Escritorio/menu-avanzado-estilo-amazon-master/main.js",
+		"/C/Users/axela/OneDrive/Escritorio/menu-avanzado-estilo-amazon-master/estilos.css",
+		"/C/Users/axela/OneDrive/Escritorio/menu-avanzado-estilo-amazon-master/index.html",
+		"/C/Users/axela/OneDrive/Documentos/Web/Loco.css",
+		"/C/Users/axela/OneDrive/Documentos/Web/Proyect.html",
+		"/C/Users/axela/OneDrive/Documentos/Web/index.html.txt"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
